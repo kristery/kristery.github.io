@@ -111,7 +111,7 @@ li.lst-left {
 .bio-back {
 	width:100%;
 	height:calc(100% - 1px);
-	background: #001933 url('photos/bio_background.jpg');
+	background: #001933 url('photos/background.jpg');
 	background-size:cover;
 	padding-top: 50px;
 	padding-bottom: 50px;
