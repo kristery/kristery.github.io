@@ -2,8 +2,19 @@ body {
 	/*padding-top: 50px;*/
 	padding-top: 0px;
 	color: #404040;
-	font-weight: 300;
+	font-weight: 400;
 	letter-spacing: 0.1px;
+    font-family: "Nunito", "TitilliumWeb";
+}
+
+@font-face {
+    font-family: "TitilliumWeb";
+    src: url("./font/TitilliumWeb-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Nunito";
+    src: url("./font/Nunito-Regular.ttf");
 }
 
 h1, h2, h3, h4, h5, h6 {
